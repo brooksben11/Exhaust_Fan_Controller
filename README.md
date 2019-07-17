@@ -4,3 +4,4 @@ Automate your existing range hood exhaust fan, ramping the fan up as-needed base
 This code is written specifically for a Particle Photon. It should be able to be modified for a generic Arduino with minimal edits.
 
 For a detailed tutorial of how this code is intended to be utilized, visit:
+https://hackaday.io/project/166621-exhaust-fan-controller-for-range-hood
